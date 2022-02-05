@@ -1,2 +1,2 @@
 # web
-creating index.htmls
+creating index.html
